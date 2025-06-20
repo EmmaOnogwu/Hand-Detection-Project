@@ -1,6 +1,6 @@
 ##  Demo
 
-![hand detection demo gif](demo.gif)  
+![hand detection demo gif](Hand Detection.mp4)  
 *Example output from the webcam feed showing detected hand landmarks.*
 
 ##  Tools & Libraries
