@@ -1,16 +1,16 @@
-## 📸 Demo
+##  Demo
 
 ![hand detection demo gif](demo.gif)  
 *Example output from the webcam feed showing detected hand landmarks.*
 
-## 🧰 Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - OpenCV
 - MediaPipe
 - NumPy
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
