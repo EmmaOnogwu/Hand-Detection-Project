@@ -1,7 +1,6 @@
 ##  Demo
 
-![hand detection demo gif]('Hand Detection.mp4')  
-*Example output from the webcam feed showing detected hand landmarks.*
+This is a real-time hand detection system that can recognize and track hand landmarks from a webcam stream. It can identify each finger and even count how many are up! 
 
 ##  Tools & Libraries
 
